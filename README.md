@@ -1,2 +1,3 @@
 # k3sexample
-Initial checkin.
+
+https://dzone.com/articles/lightweight-kubernetes-k3s-installation-and-spring
